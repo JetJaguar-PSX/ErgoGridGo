@@ -1,3 +1,2 @@
 # ErgoGridGo
-## ビルドガイド
-./docs/buildguide.md
+## [ビルドガイド](docs/buildguide.md)
